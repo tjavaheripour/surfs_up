@@ -16,8 +16,9 @@ In this project, W. Avy wants to gather some information about temperature trend
 
   ![December.png](https://github.com/tjavaheripour/surfs_up/blob/main/Resources/December.png)
 
+#### June and December Temperatures
 
-
+  ![June and December.png](https://github.com/tjavaheripour/surfs_up/blob/main/Resources/June%20and%20December.png)
 
 
 
