@@ -29,7 +29,7 @@ In this project, W. Avy wants to gather some information about temperature trend
 ## Summary
 Based on the histograms chart and the summary statistics for June and December temperatures, there is no significant difference between the standard deviation, the average, minimum and maximum temperatures throughout the year. However, we should consider some additional analysis in order to determine if the surf and ice cream shop business is sustainable year-round.
 
-Query the precipitation data by month
+- Query the precipitation data by month
 
    june _prcp = session.query(Measurement.date, Measurement.prcp).\ filter(extract('month',Measurement.date)==6).all()
 
