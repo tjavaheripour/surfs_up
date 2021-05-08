@@ -8,6 +8,10 @@ In this project, W. Avy wants to gather some information about temperature trend
 ## Results
 
 
+-	From the histogram chart, In June, the number of warm days with temperature of greater than “75 degrees” is more in compare of December.
+-	The average temperature in June (74.9 degrees) is almost 4 degrees higher than that in December (71.0 degrees) 
+-	The minimum temperature of June (64 degrees) show the greatest difference which is 8 degrees warmer than it is in December (56 degrees) and the maximum temperature in June (85 degrees) is 2 degrees warmer than it is in December (83 degrees).
+
 
 #### Summary Statistics for June
   ![June.png](https://github.com/tjavaheripour/surfs_up/blob/main/Resources/June.png)
